@@ -5,10 +5,15 @@ Setjið ykkar eigin texta um **verkefnið ykkar** og takið út eða aðlagið t
 
 ## Nafn kerfis
 
+Sjálfvirkt bókasafnskerfi
+
 ## Stutt lýsing á kerfi 
+
+Sjálfvirkt bókasanfskerfi
 
 ## Hópmeðlimir 
 
+Teymi 1: Arnþór Atli Atlason og Kristín Sesselja Róbertsdóttir
 
 ## Yfirlit 
 
