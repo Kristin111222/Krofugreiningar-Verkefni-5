@@ -9,7 +9,8 @@ Sjálfvirkt bókasafnskerfi
 
 ## Stutt lýsing á kerfi 
 
-Sjálfvirkt bókasanfskerfi
+
+Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bóka með það markmið að bjóða notendum sjálfsafgreiðslu og gera bókasafnið nánast óháð starfsfólki.
 
 ## Hópmeðlimir 
 
