@@ -10,16 +10,13 @@ Sjálfvirkt bókasafnskerfi
 ## Stutt lýsing á kerfi 
 
 
-Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bóka með það markmið að bjóða notendum sjálfsafgreiðslu og gera bókasafnið nánast óháð starfsfólki.
+Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bóka með það markmið að bjóða notendum sjálfsafgreiðslu og draga úr starfsmannakostnaði.
 
 ## Hópmeðlimir 
 
 Teymi 1: Arnþór Atli Atlason og Kristín Sesselja Róbertsdóttir
 
-## Yfirlit 
-
->
-> Setjið hér eigin texta um verkefnið ykkar   eyðið út leiðbeiningum kennara 
+## Yfirlit  
 
 
 Í þessu verkefni veljið þið **5 ytri** (external) og **3 innri** (internal) gæðaeiginleika fyrir kerfið ykkar (úr Verkefni 1 eða nýtt kerfi).  
