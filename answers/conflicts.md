@@ -8,7 +8,9 @@
 Aukin dulkóðun, auðkenning og gagnavörn geta hægt á kerfinu, þar sem fleiri öryggisferlar þurfa að keyra við hverja beiðni. Þetta getur leitt til lengri viðbragðstíma og minni hraðvirkni í sjálfsafgreiðslukerfinu.
 
 **Forgangsröðun og rök:**  
-Öryggi fær forgang í öllum aðstæðum þar sem unnið er með persónuupplýsingar eða lánasögu notenda. Lög og reglugerðir um persónuvernd setja skýrar kröfur sem hafa meiri vægi en kröfum um hraðvirkt kerfi. Notendur þola minni seinkun ef þeir vita að gögnin þeirra eru örugg.
+Öryggi fær forgang í öllum aðstæðum þar sem unnið er með persónuupplýsingar eða lánasögu notenda. Lög og reglugerðir um persónuvernd setja skýrar kröfur sem hafa meiri vægi en kröfur um hraðvirkt kerfi.
+(sjá viðskiptakröfu 2 - verkefni 1 [#13](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/11#issue-3363615584) )
+Notendur þola minni seinkun ef þeir vita að gögnin þeirra eru örugg.
 
 ---
 
