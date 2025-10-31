@@ -18,19 +18,19 @@ Teymi 1: Arnþór Atli Atlason og Kristín Sesselja Róbertsdóttir
 
 ## Yfirlit  
 
-** Ytri gæðaeiginleikar ** 
+### Ytri gæðaeiginleikar 
 - 1. Notendavæni
 - 2. FJölvettvangsstuðningur
 - 3. Áreiðanleiki
 - 4. Öryggi
 - 5. Frammistaða
 
-** Innri gæðaeiginleikar **
+### Innri gæðaeiginleikar
 - 1. Viðhaldshæfni
 - 2. Prófanleiki
 - 3. Viðbætanleiki
  
-** PLanguage **
+### PLanguage
 - Frammistöðu var lýst í PLanguage.
 
 ## Möppur & skráauppsetning
