@@ -8,7 +8,7 @@
 Aukin dulkóðun, auðkenning og gagnavörn geta hægt á kerfinu, þar sem fleiri öryggisferlar þurfa að keyra við hverja beiðni. Þetta getur leitt til lengri viðbragðstíma og minni hraðvirkni í sjálfsafgreiðslukerfinu.
 
 **Forgangsröðun og rök:**  
-Öryggi fær forgang í öllum aðstæðum þar sem unnið er með persónuupplýsingar eða lánasögu notenda. Lög og reglugerðir um persónuvernd setja skýrar kröfur sem hafa meiri vægi en hraðakröfur. Notendur þola minni seinkun ef þeir vita að gögnin þeirra eru örugg.
+Öryggi fær forgang í öllum aðstæðum þar sem unnið er með persónuupplýsingar eða lánasögu notenda. Lög og reglugerðir um persónuvernd setja skýrar kröfur sem hafa meiri vægi en kröfum um hraðvirkt kerfi. Notendur þola minni seinkun ef þeir vita að gögnin þeirra eru örugg.
 
 ---
 
@@ -28,7 +28,7 @@ Notendavæni fær forgang, sérstaklega í fyrstu útgáfum kerfisins þar sem m
 Að bæta við nýjum eiginleikum eða samþætta nýjar þjónustur getur valdið tímabundnum truflunum eða aukinni villuhættu. Þetta getur haft áhrif á stöðugleika kerfisins og minnkað áreiðanleika þess í daglegri notkun.
 
 **Forgangsröðun og rök:**  
-Áreiðanleiki fær forgang. Kerfið þarf að virka áreiðanlega í rekstri áður en nýir eiginleikar eru kynntir. Notendur og bókasafnsstarfsmenn þurfa að geta treyst kerfinu á hverjum degi. Viðbætur má útfæra í þróunarumhverfi og prófa ítarlega áður en þær eru settar í framleiðslu.
+Áreiðanleiki fær forgang. Kerfið þarf að virka áreiðanlega í rekstri áður en nýir eiginleikar eru kynntir. Notendur og starfsmenn bókasafnsins þurfa að geta treyst kerfinu á hverjum degi. Viðbætur má útfæra í þróunarumhverfi og prófa ítarlega áður en þær eru settar í framleiðslu.
 
 **Taktík:**  
 Nota útgáfustýringu til að bæta við nýjum eiginleikum stigvaxandi án þess að trufla stöðugan rekstur. Þannig má ná jafnvægi milli stöðugleika og nýsköpunar.
