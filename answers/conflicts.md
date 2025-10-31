@@ -10,7 +10,7 @@ Aukin dulkóðun, auðkenning og gagnavörn geta hægt á kerfinu, þar sem flei
 **Forgangsröðun og rök:**  
 Öryggi fær forgang í öllum aðstæðum þar sem unnið er með persónuupplýsingar eða lánasögu notenda. Lög og reglugerðir um persónuvernd setja skýrar kröfur sem hafa meiri vægi en kröfur um hraðvirkt kerfi.
 (sjá viðskiptakröfu 2 - verkefni 1 [#13](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/11#issue-3363615584) )
-Notendur þola minni seinkun ef þeir vita að gögnin þeirra eru örugg.
+Notendur þola meiri seinkun ef þeir vita að gögnin þeirra eru örugg.
 
 ---
 
