@@ -37,16 +37,7 @@ Teymi 1: Arnþór Atli Atlason og Kristín Sesselja Róbertsdóttir
 
 - `answers/quality-attributes.md` — allar 8 kröfurnar (5 ytri, 3 innri).
 - `answers/conflicts.md` — 3 árekstrapör + rök.
-- `docs/glossary.md` — orðasafn hugtaka.
-
-## Ferli fyrir verkefnið 
-
-> Hvernig unnuð þið verkefnið
-
-1. Opnið sniðmát í `templates/`.
-2. Afritið (copy) og límið í `answers/quality-attributes.md` eða búið til sérskrár ef óskað er.
-4. Gerið commit /push með skýrum skilaboðum.
-5. Samstarfsnemandinn á að rýna pull request og skrifa athugasemdir 
+- `docs/glossary.md` — orðasafn hugtaka. 
 
  
 > ---
