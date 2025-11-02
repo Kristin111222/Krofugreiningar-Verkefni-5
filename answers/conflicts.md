@@ -35,7 +35,7 @@ Að bæta við nýjum eiginleikum eða samþætta nýjar þjónustur getur valdi
 **Taktík:**  
 Nota útgáfustýringu til að bæta við nýjum eiginleikum stigvaxandi án þess að trufla stöðugan rekstur. Þannig má ná jafnvægi milli stöðugleika og nýsköpunar.
 
-
+---
 
 ### Árekstrartafla
 
