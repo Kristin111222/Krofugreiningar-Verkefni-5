@@ -39,7 +39,7 @@ Nota útgáfustýringu til að bæta við nýjum eiginleikum stigvaxandi án þe
 
 ### Árekstrartafla
 
-![Árekstrar ](https://github.com/Notandi/Verkefni/blob/main/mynd.png)
+[Árekstrar](https://github.com/Kristin111222/Krofugreiningar-Verkefni-5/blob/main/Screenshot%202025-11-02%20115548.png)
 
 
 
