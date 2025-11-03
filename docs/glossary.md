@@ -2,6 +2,8 @@
 - **Gæðaeiginleiki (quality attribute):** Mælanlegur eiginleiki sem lýsir hvernig kerfið hagar sér eða hversu vel það uppfyllir væntingar (t.d. afköst, notagildi).  
 - **Ytri/Innri:** Ytri snýr að upplifun notenda/rekstri; innri snýr að viðhaldi/þróun kerfisins.
 
+  ## Ensk/íslensk þýðing á gæðakröfum
+
 | Enska              | Íslenska              | Skýring / Lýsing |
 |--------------------|-----------------------|------------------|
 | **Modifiability**  | Viðhaldshæfni         | Hversu auðvelt er að gera breytingar, laga villur eða bæta kerfið eftir að það hefur verið sett í notkun. |
