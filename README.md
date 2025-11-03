@@ -36,8 +36,8 @@ Teymi 1: Arnþór Atli Atlason og Kristín Sesselja Róbertsdóttir
 > Skrár 
 
 - [3 innri og 5 ytri köfur](https://github.com/Kristin111222/Krofugreiningar-Verkefni-5/blob/main/answers/quality-attributes.md)
-- `answers/conflicts.md` — 3 árekstrapör + rök.
-- `docs/glossary.md` — orðasafn hugtaka. 
+- [3 árekstrarpör + árekstrartafla](https://github.com/Kristin111222/Krofugreiningar-Verkefni-5/blob/main/answers/conflicts.md)
+- [orðasafn hugtaka](https://github.com/Kristin111222/Krofugreiningar-Verkefni-5/blob/main/docs/glossary.md) 
 
  
 > ---
